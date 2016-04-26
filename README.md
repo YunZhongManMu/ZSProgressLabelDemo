@@ -1,5 +1,5 @@
 # ZSProgressLabel
- 歌词滚动的label
+ 这是一个歌词滚动的Label，支持自动滚动，支持手动滑动
  
  ![](./1.png)
  
